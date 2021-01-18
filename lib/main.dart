@@ -7,7 +7,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Code Example',
+      title: 'Flutter Code Sample',
       home: BottomNavBarExample(),
     );
   }
